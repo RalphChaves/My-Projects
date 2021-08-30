@@ -44,7 +44,7 @@ for (let i = 1; (i) => comecar; i++) {
       vitoriadoPC++;
     } else if (maopc == 1 && maouser2 == 0) {
       console.log(
-        "Eu escolhi Papel, \nVocê Pedra, \nPedra enrola papel,\nEntao eu venci!\nBoa Sorte da Proxima vez!"
+        "Eu escolhi Papel, \nVocê Pedra, \nPapel enrola pedra,\nEntao eu venci!\nBoa Sorte da Proxima vez!"
       );
       console.log("--------------------------------------");
       vitoriadoPC++;
@@ -62,7 +62,7 @@ for (let i = 1; (i) => comecar; i++) {
       vitoriadousuario++;
     } else if (maopc == 0 && maouser2 == 1) {
       console.log(
-        "Você escolheu Papel, \nEu Pedra, \nPedra enrola papel,\nEntao você venceu!"
+        "Você escolheu Papel, \nEu Pedra, \nPapel enrola pedra,\nEntao você venceu!"
       );
       console.log("--------------------------------------");
       vitoriadousuario++;
